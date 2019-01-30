@@ -11,3 +11,4 @@
 
 > chrome浏览器 - "打印" - 设置无边距 - 即可导出
 
+借鉴自 https://github.com/mcc108/resume 感谢原作者。
