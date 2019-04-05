@@ -9,6 +9,7 @@
 - 2、编辑 `/src/index.html` 文件实时调试
 - 3、**生产**：命令行运行 `npm run build` 打包
 - 4、浏览器打开 `/index.html` 进行预览
+- 5、Bob's your uncle!
 
 > chrome浏览器 - "打印" - 设置无边距 - 即可导出
 
